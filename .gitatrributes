@@ -1,5 +1,3 @@
 *.html linguist-detectable=true
 *.css linguist-detectable=true
 *.bootstrap linguist-detectable=true
-*.hack linguist-detectable=false
-*.javascript linguist-detectable=false
